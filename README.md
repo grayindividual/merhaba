@@ -1,1 +1,1 @@
-# merhaba
+print("Merhaba, Dünya!")
